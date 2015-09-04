@@ -1,0 +1,5 @@
+// HTTP
+define('HTTP_SERVER', 'http://mall.winhill.pro/');
+
+// HTTPS
+define('HTTPS_SERVER', 'http://mall.winhill.pro/');
