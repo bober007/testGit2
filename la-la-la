@@ -10,6 +10,8 @@ define('HTTPS_SERVER', 'http://mall.winhill.pro/');
 define('HTTPS_SERVER', 'http://mall.winhill.pro/');
 define('HTTPS_SERVER', 'http://mall.winhill.pro/');
 
+//MasterBranch
+define('MASTER', 'http://mall.winhill.pro/');
 
 //Hello BranchSerg
 define('BranchSerg', 'http://mall.winhill.pro/');
