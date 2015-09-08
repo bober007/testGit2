@@ -15,3 +15,6 @@ define('MASTER', 'http://mall.winhill.pro/');
 
 //Hello BranchSerg
 define('BranchSerg', 'http://mall.winhill.pro/');
+
+//Add to Git
+define('Add to Git', 'http://mall.winhill.pro/');
